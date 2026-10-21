@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-10-21T18:03:20Z</responseDate>
+  <request verb="ListMetadataFormats">https://ndlsearch.ndl.go.jp/api/oaipmh</request>
+  <ListMetadataFormats>
+    <metadataFormat>
+      <metadataPrefix>oai_dc</metadataPrefix>
+      <schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema>
+      <metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>dcndl</metadataPrefix>
+      <schema/>
+      <metadataNamespace>http://ndl.go.jp/dcndl/terms/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>dcndl_v3</metadataPrefix>
+      <schema/>
+      <metadataNamespace>http://ndl.go.jp/dcndl/terms/</metadataNamespace>
+    </metadataFormat>
+  </ListMetadataFormats>
+</OAI-PMH>

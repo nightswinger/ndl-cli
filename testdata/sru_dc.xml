@@ -1,0 +1,210 @@
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>11625</numberOfRecords>
+  <nextRecordPosition>4</nextRecordPosition>
+  <extraResponseData>
+    <facets>
+      <lst name="REPOSITORY_NO">
+        <int name="R100000002">4896</int>
+        <int name="R000000004">3333</int>
+        <int name="R100000136">1692</int>
+        <int name="R100000001">652</int>
+        <int name="R000000025">344</int>
+        <int name="R100000137">271</int>
+        <int name="R100000094">163</int>
+        <int name="R100000038">90</int>
+        <int name="R100000039">64</int>
+        <int name="R000000054">61</int>
+        <int name="R000000016">16</int>
+        <int name="R100000146">13</int>
+        <int name="R100000134">9</int>
+        <int name="R100000128">7</int>
+        <int name="R100000138">7</int>
+        <int name="R100000049">3</int>
+        <int name="R100000073">2</int>
+        <int name="R100000097">2</int>
+      </lst>
+      <lst name="NDC">
+        <int name="+">11</int>
+        <int name="0">46</int>
+        <int name="1">49</int>
+        <int name="2">511</int>
+        <int name="3">227</int>
+        <int name="4">150</int>
+        <int name="5">45</int>
+        <int name="6">66</int>
+        <int name="7">643</int>
+        <int name="8">9</int>
+        <int name="9">1092</int>
+        <int name="A">11</int>
+        <int name="C">1</int>
+        <int name="E">4</int>
+        <int name="G">4</int>
+        <int name="H">2</int>
+        <int name="K">29</int>
+        <int name="M">3</int>
+        <int name="N">8</int>
+        <int name="S">4</int>
+        <int name="T">34</int>
+        <int name="２">6</int>
+        <int name="３">8</int>
+        <int name="４">1</int>
+        <int name="６">2</int>
+        <int name="７">6</int>
+        <int name="９">6</int>
+        <int name="ｴ">9</int>
+      </lst>
+      <lst name="ISSUED_DATE">
+        <int name="1900">7</int>
+        <int name="1903">1</int>
+        <int name="1951">1</int>
+        <int name="1952">1</int>
+        <int name="1959">2</int>
+        <int name="1960">1</int>
+        <int name="1961">1</int>
+        <int name="1962">1</int>
+        <int name="1963">1</int>
+        <int name="1964">1</int>
+        <int name="1965">2</int>
+        <int name="1966">2</int>
+        <int name="1967">2</int>
+        <int name="1968">2</int>
+        <int name="1969">1</int>
+        <int name="1970">3</int>
+        <int name="1971">3</int>
+        <int name="1972">1</int>
+        <int name="1973">4</int>
+        <int name="1974">4</int>
+        <int name="1975">3</int>
+        <int name="1976">2</int>
+        <int name="1977">3</int>
+        <int name="1978">4</int>
+        <int name="1979">4</int>
+        <int name="1980">6</int>
+        <int name="1981">5</int>
+        <int name="1982">6</int>
+        <int name="1983">7</int>
+        <int name="1984">6</int>
+        <int name="1985">8</int>
+        <int name="1986">8</int>
+        <int name="1987">8</int>
+        <int name="1988">8</int>
+        <int name="1989">8</int>
+        <int name="1990">10</int>
+        <int name="1991">11</int>
+        <int name="1992">10</int>
+        <int name="1993">9</int>
+        <int name="1994">11</int>
+        <int name="1995">11</int>
+        <int name="1996">12</int>
+        <int name="1997">12</int>
+        <int name="1998">16</int>
+        <int name="1999">13</int>
+        <int name="2000">17</int>
+        <int name="2001">12</int>
+        <int name="2002">15</int>
+        <int name="2003">17</int>
+        <int name="2004">14</int>
+      </lst>
+      <lst name="LIBRARY">
+        <int name="国立国会図書館">8223</int>
+        <int name="大阪市立図書館">602</int>
+        <int name="さいたま市立中央図書館">600</int>
+        <int name="横浜市立図書館">559</int>
+        <int name="長崎県立長崎図書館">542</int>
+        <int name="堺市立中央図書館">540</int>
+        <int name="サピエ図書館">526</int>
+        <int name="静岡市立中央図書館">488</int>
+        <int name="岡山県立図書館">474</int>
+        <int name="広島市立中央図書館">455</int>
+        <int name="東京都立中央図書館">441</int>
+        <int name="大阪府立中央図書館">399</int>
+        <int name="石川県立図書館">393</int>
+        <int name="札幌市中央図書館">390</int>
+        <int name="滋賀県立図書館">366</int>
+        <int name="川崎市立図書館">344</int>
+        <int name="鳥取県立図書館">327</int>
+        <int name="千葉市中央図書館">318</int>
+        <int name="名古屋市図書館">295</int>
+        <int name="茨城県立図書館">287</int>
+        <int name="相模原市立図書館">271</int>
+        <int name="秋田県立図書館">268</int>
+        <int name="和歌山県立図書館">238</int>
+        <int name="福岡県立図書館">234</int>
+        <int name="高知県立図書館">224</int>
+        <int name="大分県立図書館">218</int>
+        <int name="福井県立図書館">217</int>
+        <int name="徳島県立図書館">209</int>
+        <int name="静岡県立中央図書館">209</int>
+        <int name="香川県立図書館">207</int>
+        <int name="山梨県立図書館">194</int>
+        <int name="佐賀県立図書館">192</int>
+        <int name="富山県立図書館">188</int>
+        <int name="島根県立図書館">180</int>
+        <int name="鹿児島県立図書館">179</int>
+        <int name="山口県立山口図書館">174</int>
+        <int name="大阪府立中央図書館国際児童文学館">169</int>
+        <int name="広島県立図書館">166</int>
+        <int name="新潟県立図書館">164</int>
+        <int name="京都府立図書館">163</int>
+        <int name="青森県立図書館">161</int>
+        <int name="北海道立図書館">149</int>
+        <int name="宮城県図書館">145</int>
+        <int name="群馬県立図書館">145</int>
+        <int name="岐阜県図書館">138</int>
+        <int name="山形県立図書館">133</int>
+        <int name="愛知県図書館">131</int>
+        <int name="福島県立図書館">129</int>
+        <int name="奈良県立図書情報館">122</int>
+        <int name="県立長野図書館">122</int>
+      </lst>
+    </facets>
+  </extraResponseData>
+  <records>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <srw_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:srw/schema/1/dc-v1.1 http://www.loc.gov/standards/sru/dc-schema.xsd">
+          <dc:title>アーティストの表現として見るアートプロジェクトの意義について─東京都立川市における「おやこ・de・アート展」in 立川の実践を事例に─</dc:title>
+          <dc:subject>アートプロジェクト</dc:subject>
+          <dc:subject>アーティスト</dc:subject>
+          <dc:subject>現代アート</dc:subject>
+          <dc:subject>アール・ブリュット</dc:subject>
+          <dc:subject>市民活動</dc:subject>
+          <dc:subject>アートプロジェクト</dc:subject>
+          <dc:subject>アーティスト</dc:subject>
+          <dc:subject>現代アート</dc:subject>
+          <dc:subject>アール・ブリュット</dc:subject>
+          <dc:subject>市民活動</dc:subject>
+          <dc:language>jpn</dc:language>
+        </srw_dc:dc>
+      </recordData>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <srw_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:srw/schema/1/dc-v1.1 http://www.loc.gov/standards/sru/dc-schema.xsd">
+          <dc:title>アートな時間 クラシック 東京・春・音楽祭2020 : 来春、5週間連続で豪華な祭典 東京・上野の桜の森で堪能</dc:title>
+          <dc:creator>梅津 時比古</dc:creator>
+          <dc:language>jpn</dc:language>
+        </srw_dc:dc>
+      </recordData>
+      <recordPosition>2</recordPosition>
+    </record>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <srw_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:srw/schema/1/dc-v1.1 http://www.loc.gov/standards/sru/dc-schema.xsd">
+          <dc:title>アートな時間 初代国立劇場さよなら公演 通し狂言 義経千本桜 : 身体を駆使した多彩な演出 尾上菊之助の主要三役で堪能</dc:title>
+          <dc:creator>小玉 祥子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </srw_dc:dc>
+      </recordData>
+      <recordPosition>3</recordPosition>
+    </record>
+  </records>
+</searchRetrieveResponse>

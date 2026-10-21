@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-10-21T18:03:16Z</responseDate>
+  <request verb="Identify">https://ndlsearch.ndl.go.jp/api/oaipmh</request>
+  <Identify>
+    <repositoryName>国立国会図書館サーチ</repositoryName>
+    <baseURL>https://ndlsearch.ndl.go.jp</baseURL>
+    <protocolVersion>Version 2.0</protocolVersion>
+    <earliestDatestamp>2022-10-01T00:00:00Z</earliestDatestamp>
+    <deletedRecord>persistent</deletedRecord>
+    <granularity>YYYY-MM-DDThh:mm:ssZ</granularity>
+  </Identify>
+</OAI-PMH>

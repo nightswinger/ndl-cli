@@ -1,0 +1,471 @@
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>11625</numberOfRecords>
+  <nextRecordPosition>4</nextRecordPosition>
+  <extraResponseData>
+    <facets>
+      <lst name="REPOSITORY_NO">
+        <int name="R100000002">4896</int>
+        <int name="R000000004">3333</int>
+        <int name="R100000136">1692</int>
+        <int name="R100000001">652</int>
+        <int name="R000000025">344</int>
+        <int name="R100000137">271</int>
+        <int name="R100000094">163</int>
+        <int name="R100000038">90</int>
+        <int name="R100000039">64</int>
+        <int name="R000000054">61</int>
+        <int name="R000000016">16</int>
+        <int name="R100000146">13</int>
+        <int name="R100000134">9</int>
+        <int name="R100000128">7</int>
+        <int name="R100000138">7</int>
+        <int name="R100000049">3</int>
+        <int name="R100000073">2</int>
+        <int name="R100000097">2</int>
+      </lst>
+      <lst name="NDC">
+        <int name="+">11</int>
+        <int name="0">46</int>
+        <int name="1">49</int>
+        <int name="2">511</int>
+        <int name="3">227</int>
+        <int name="4">150</int>
+        <int name="5">45</int>
+        <int name="6">66</int>
+        <int name="7">643</int>
+        <int name="8">9</int>
+        <int name="9">1092</int>
+        <int name="A">11</int>
+        <int name="C">1</int>
+        <int name="E">4</int>
+        <int name="G">4</int>
+        <int name="H">2</int>
+        <int name="K">29</int>
+        <int name="M">3</int>
+        <int name="N">8</int>
+        <int name="S">4</int>
+        <int name="T">34</int>
+        <int name="２">6</int>
+        <int name="３">8</int>
+        <int name="４">1</int>
+        <int name="６">2</int>
+        <int name="７">6</int>
+        <int name="９">6</int>
+        <int name="ｴ">9</int>
+      </lst>
+      <lst name="ISSUED_DATE">
+        <int name="1900">7</int>
+        <int name="1903">1</int>
+        <int name="1951">1</int>
+        <int name="1952">1</int>
+        <int name="1959">2</int>
+        <int name="1960">1</int>
+        <int name="1961">1</int>
+        <int name="1962">1</int>
+        <int name="1963">1</int>
+        <int name="1964">1</int>
+        <int name="1965">2</int>
+        <int name="1966">2</int>
+        <int name="1967">2</int>
+        <int name="1968">2</int>
+        <int name="1969">1</int>
+        <int name="1970">3</int>
+        <int name="1971">3</int>
+        <int name="1972">1</int>
+        <int name="1973">4</int>
+        <int name="1974">4</int>
+        <int name="1975">3</int>
+        <int name="1976">2</int>
+        <int name="1977">3</int>
+        <int name="1978">4</int>
+        <int name="1979">4</int>
+        <int name="1980">6</int>
+        <int name="1981">5</int>
+        <int name="1982">6</int>
+        <int name="1983">7</int>
+        <int name="1984">6</int>
+        <int name="1985">8</int>
+        <int name="1986">8</int>
+        <int name="1987">8</int>
+        <int name="1988">8</int>
+        <int name="1989">8</int>
+        <int name="1990">10</int>
+        <int name="1991">11</int>
+        <int name="1992">10</int>
+        <int name="1993">9</int>
+        <int name="1994">11</int>
+        <int name="1995">11</int>
+        <int name="1996">12</int>
+        <int name="1997">12</int>
+        <int name="1998">16</int>
+        <int name="1999">13</int>
+        <int name="2000">17</int>
+        <int name="2001">12</int>
+        <int name="2002">15</int>
+        <int name="2003">17</int>
+        <int name="2004">14</int>
+      </lst>
+      <lst name="LIBRARY">
+        <int name="国立国会図書館">8223</int>
+        <int name="大阪市立図書館">602</int>
+        <int name="さいたま市立中央図書館">600</int>
+        <int name="横浜市立図書館">559</int>
+        <int name="長崎県立長崎図書館">542</int>
+        <int name="堺市立中央図書館">540</int>
+        <int name="サピエ図書館">526</int>
+        <int name="静岡市立中央図書館">488</int>
+        <int name="岡山県立図書館">474</int>
+        <int name="広島市立中央図書館">455</int>
+        <int name="東京都立中央図書館">441</int>
+        <int name="大阪府立中央図書館">399</int>
+        <int name="石川県立図書館">393</int>
+        <int name="札幌市中央図書館">390</int>
+        <int name="滋賀県立図書館">366</int>
+        <int name="川崎市立図書館">344</int>
+        <int name="鳥取県立図書館">327</int>
+        <int name="千葉市中央図書館">318</int>
+        <int name="名古屋市図書館">295</int>
+        <int name="茨城県立図書館">287</int>
+        <int name="相模原市立図書館">271</int>
+        <int name="秋田県立図書館">268</int>
+        <int name="和歌山県立図書館">238</int>
+        <int name="福岡県立図書館">234</int>
+        <int name="高知県立図書館">224</int>
+        <int name="大分県立図書館">218</int>
+        <int name="福井県立図書館">217</int>
+        <int name="徳島県立図書館">209</int>
+        <int name="静岡県立中央図書館">209</int>
+        <int name="香川県立図書館">207</int>
+        <int name="山梨県立図書館">194</int>
+        <int name="佐賀県立図書館">192</int>
+        <int name="富山県立図書館">188</int>
+        <int name="島根県立図書館">180</int>
+        <int name="鹿児島県立図書館">179</int>
+        <int name="山口県立山口図書館">174</int>
+        <int name="大阪府立中央図書館国際児童文学館">169</int>
+        <int name="広島県立図書館">166</int>
+        <int name="新潟県立図書館">164</int>
+        <int name="京都府立図書館">163</int>
+        <int name="青森県立図書館">161</int>
+        <int name="北海道立図書館">149</int>
+        <int name="宮城県図書館">145</int>
+        <int name="群馬県立図書館">145</int>
+        <int name="岐阜県図書館">138</int>
+        <int name="山形県立図書館">133</int>
+        <int name="愛知県図書館">131</int>
+        <int name="福島県立図書館">129</int>
+        <int name="奈良県立図書情報館">122</int>
+        <int name="県立長野図書館">122</int>
+      </lst>
+    </facets>
+  </extraResponseData>
+  <records>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000136-I1050855190174699136">
+            <dcterms:description>type : article</dcterms:description>
+            <dcndl:bibRecordCategory>R100000136</dcndl:bibRecordCategory>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000136-I1050855190174699136#material"/>
+            <dcterms:provenance>
+              <rdf:Description rdf:about="https://cir.nii.ac.jp/">
+                <foaf:name xml:lang="ja">CiNii Research</foaf:name>
+                <foaf:name xml:lang="en">CiNii Research</foaf:name>
+                <dcndl:transcription>CiNii Research</dcndl:transcription>
+                <dcterms:contributor>国立情報学研究所</dcterms:contributor>
+                <dcndl:bibRecordCategory>R100000136</dcndl:bibRecordCategory>
+              </rdf:Description>
+            </dcterms:provenance>
+            <dcterms:provenance>
+              <rdf:Description rdf:about="https://irdb.nii.ac.jp">
+                <foaf:name xml:lang="ja">学術機関リポジトリデータベース</foaf:name>
+              </rdf:Description>
+            </dcterms:provenance>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000136-I1050855190174699136#material">
+            <dcterms:title>アーティストの表現として見るアートプロジェクトの意義について─東京都立川市における「おやこ・de・アート展」in 立川の実践を事例に─</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>アーティストの表現として見るアートプロジェクトの意義について─東京都立川市における「おやこ・de・アート展」in 立川の実践を事例に─</rdf:value>
+              </rdf:Description>
+            </dc:title>
+            <dcterms:creator>
+              <foaf:Agent>
+                <foaf:name>成清, 北斗</foaf:name>
+              </foaf:Agent>
+            </dcterms:creator>
+            <dcterms:creator>
+              <foaf:Agent>
+                <foaf:name>NARIKIYO, Hokuto</foaf:name>
+              </foaf:Agent>
+            </dcterms:creator>
+            <dcterms:date>2022-03-25</dcterms:date>
+            <dcterms:date>2</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">2022-03-25</dcterms:issued>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">2022-03-25</dcterms:issued>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>アートプロジェクト</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>アーティスト</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>現代アート</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>アール・ブリュット</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>市民活動</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>アートプロジェクト</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>アーティスト</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>現代アート</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>アール・ブリュット</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:subject>
+              <rdf:Description>
+                <rdf:value>市民活動</rdf:value>
+              </rdf:Description>
+            </dcterms:subject>
+            <dcterms:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">jpn</dcterms:language>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+            <dcndl:publicationName>
+              <rdf:Description>
+                <rdf:value xml:lang="en">J. F. Oberlin University Journal of Advanced Research. Humanities</rdf:value>
+                <dcndl:publicationVolume>2</dcndl:publicationVolume>
+                <dcndl:pageRange>140-150</dcndl:pageRange>
+              </rdf:Description>
+            </dcndl:publicationName>
+            <dcndl:publicationName>
+              <rdf:Description>
+                <rdf:value>桜美林大学研究紀要.人文学研究</rdf:value>
+                <dcndl:publicationVolume>2</dcndl:publicationVolume>
+                <dcndl:pageRange>140-150</dcndl:pageRange>
+              </rdf:Description>
+            </dcndl:publicationName>
+            <dcterms:audience>一般</dcterms:audience>
+            <dcterms:relation rdf:resource="https://obirin.repo.nii.ac.jp/records/2570"/>
+            <dcterms:isPartOf rdf:resource="http://iss.ndl.go.jp/issn/24362689"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000025-I013340005348550#item"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000136-I1050855190174699136#item"/>
+          </dcndl:BibResource>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R000000025-I013340005348550#item">
+            <rdfs:seeAlso rdf:resource="https://obirin.repo.nii.ac.jp/records/2570"/>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+            <dcterms:accessRights>インターネット公開</dcterms:accessRights>
+          </dcndl:Item>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R100000136-I1050855190174699136#item">
+            <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050855190174699136"/>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+          </dcndl:Item>
+        </rdf:RDF>
+      </recordData>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000004-I030071126">
+            <dcndl:catalogingStatus>C7</dcndl:catalogingStatus>
+            <dcterms:description>type : article</dcterms:description>
+            <dcndl:bibRecordCategory>R000000004</dcndl:bibRecordCategory>
+            <dcndl:bibRecordSubCategory>632</dcndl:bibRecordSubCategory>
+            <dcndl:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/" rdfs:label="CC BY（表示）"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I030071126#material"/>
+            <dcterms:provenance>
+              <rdf:Description rdf:about="https://ndlsearch.ndl.go.jp">
+                <foaf:name xml:lang="ja">国立国会図書館雑誌記事索引</foaf:name>
+                <foaf:name xml:lang="en">Japanese Periodical Index</foaf:name>
+                <dcndl:transcription>コクリツコッカイトショカンザッシキジサクイン</dcndl:transcription>
+                <dcterms:contributor>国立国会図書館</dcterms:contributor>
+                <dcndl:bibRecordCategory>R000000004</dcndl:bibRecordCategory>
+              </rdf:Description>
+            </dcterms:provenance>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000004-I030071126#material">
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/030071126"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">030071126</dcterms:identifier>
+            <dcterms:title>アートな時間 クラシック 東京・春・音楽祭2020 : 来春、5週間連続で豪華な祭典 東京・上野の桜の森で堪能</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>アートな時間 クラシック 東京・春・音楽祭2020 : 来春、5週間連続で豪華な祭典 東京・上野の桜の森で堪能</rdf:value>
+                <dcndl:transcription>アート ナ ジカン クラシック トウキョウ ・ ハル ・ オンガクサイ 2020 : ライシュン 、 5シュウカン レンゾク デ ゴウカ ナ サイテン トウキョウ ・ ウエノ ノ サクラ ノ モリ デ タンノウ</dcndl:transcription>
+              </rdf:Description>
+            </dc:title>
+            <dcterms:creator>
+              <foaf:Agent>
+                <foaf:name>梅津 時比古</foaf:name>
+              </foaf:Agent>
+            </dcterms:creator>
+            <dc:creator>梅津 時比古</dc:creator>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>東京 : 毎日新聞出版</foaf:name>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcndl:publicationPlace rdf:datatype="http://purl.org/dc/terms/ISO3166">JP</dcndl:publicationPlace>
+            <dcterms:date>97(46)=4627:2019.11.26</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">2019-11-26</dcterms:issued>
+            <dcterms:subject rdf:resource="http://id.ndl.go.jp/class/ndlc/ZD1"/>
+            <dcterms:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">jpn</dcterms:language>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+            <dcndl:publicationName>
+              <rdf:Description>
+                <rdf:value>エコノミスト</rdf:value>
+                <dcndl:publicationVolume>97</dcndl:publicationVolume>
+                <dcndl:number>46</dcndl:number>
+                <dcndl:issue>4627</dcndl:issue>
+                <dcndl:pageRange>92-93</dcndl:pageRange>
+              </rdf:Description>
+            </dcndl:publicationName>
+            <dcterms:audience>一般</dcterms:audience>
+            <dcterms:isPartOf rdf:resource="https://id.ndl.go.jp/bib/000000002178"/>
+            <dcterms:isPartOf rdf:resource="http://iss.ndl.go.jp/issn/00130621"/>
+            <dcterms:isPartOf rdf:resource="http://iss.ndl.go.jp/issnl/00130621"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I030071126#item"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000136-I1522262180938927360#item"/>
+          </dcndl:BibResource>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R000000004-I030071126#item">
+            <dcndl:holdingAgent>
+              <foaf:Agent>
+                <foaf:name xml:lang="ja">国立国会図書館</foaf:name>
+                <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLLibCode">0000</dcterms:identifier>
+              </foaf:Agent>
+            </dcndl:holdingAgent>
+            <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I030071126"/>
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/030071126"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">030071126</dcterms:identifier>
+            <dcndl:callNumber>Z3-96</dcndl:callNumber>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+          </dcndl:Item>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R100000136-I1522262180938927360#item">
+            <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522262180938927360"/>
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/030071126"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">030071126</dcterms:identifier>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+          </dcndl:Item>
+        </rdf:RDF>
+      </recordData>
+      <recordPosition>2</recordPosition>
+    </record>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000004-I032423650">
+            <dcndl:catalogingStatus>C7</dcndl:catalogingStatus>
+            <dcterms:description>type : article</dcterms:description>
+            <dcndl:bibRecordCategory>R000000004</dcndl:bibRecordCategory>
+            <dcndl:bibRecordSubCategory>632</dcndl:bibRecordSubCategory>
+            <dcndl:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/" rdfs:label="CC BY（表示）"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032423650#material"/>
+            <dcterms:provenance>
+              <rdf:Description rdf:about="https://ndlsearch.ndl.go.jp">
+                <foaf:name xml:lang="ja">国立国会図書館雑誌記事索引</foaf:name>
+                <foaf:name xml:lang="en">Japanese Periodical Index</foaf:name>
+                <dcndl:transcription>コクリツコッカイトショカンザッシキジサクイン</dcndl:transcription>
+                <dcterms:contributor>国立国会図書館</dcterms:contributor>
+                <dcndl:bibRecordCategory>R000000004</dcndl:bibRecordCategory>
+              </rdf:Description>
+            </dcterms:provenance>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000004-I032423650#material">
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/032423650"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">032423650</dcterms:identifier>
+            <dcterms:title>アートな時間 初代国立劇場さよなら公演 通し狂言 義経千本桜 : 身体を駆使した多彩な演出 尾上菊之助の主要三役で堪能</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>アートな時間 初代国立劇場さよなら公演 通し狂言 義経千本桜 : 身体を駆使した多彩な演出 尾上菊之助の主要三役で堪能</rdf:value>
+                <dcndl:transcription>アート ナ ジカン ショダイ コクリツ ゲキジョウ サヨナラ コウエン トオシ キョウゲン ヨシツネ センボンザクラ : シンタイ オ クシ シタ タサイ ナ エンシュツ オノエ キクノスケ ノ シュヨウ サンヤク デ タンノウ</dcndl:transcription>
+              </rdf:Description>
+            </dc:title>
+            <dcterms:creator>
+              <foaf:Agent>
+                <foaf:name>小玉 祥子</foaf:name>
+              </foaf:Agent>
+            </dcterms:creator>
+            <dc:creator>小玉 祥子</dc:creator>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>東京 : 毎日新聞出版</foaf:name>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcndl:publicationPlace rdf:datatype="http://purl.org/dc/terms/ISO3166">JP</dcndl:publicationPlace>
+            <dcterms:date>100(39)=4766:2022.10.18</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">2022-10-18</dcterms:issued>
+            <dcterms:subject rdf:resource="http://id.ndl.go.jp/class/ndlc/ZD1"/>
+            <dcterms:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">jpn</dcterms:language>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+            <dcndl:publicationName>
+              <rdf:Description>
+                <rdf:value>エコノミスト</rdf:value>
+                <dcndl:publicationVolume>100</dcndl:publicationVolume>
+                <dcndl:number>39</dcndl:number>
+                <dcndl:issue>4766</dcndl:issue>
+                <dcndl:pageRange>92-93</dcndl:pageRange>
+              </rdf:Description>
+            </dcndl:publicationName>
+            <dcterms:audience>一般</dcterms:audience>
+            <dcterms:isPartOf rdf:resource="https://id.ndl.go.jp/bib/000000002178"/>
+            <dcterms:isPartOf rdf:resource="http://iss.ndl.go.jp/issn/00130621"/>
+            <dcterms:isPartOf rdf:resource="http://iss.ndl.go.jp/issnl/00130621"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032423650#item"/>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000136-I1520012313358042112#item"/>
+          </dcndl:BibResource>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R000000004-I032423650#item">
+            <dcndl:holdingAgent>
+              <foaf:Agent>
+                <foaf:name xml:lang="ja">国立国会図書館</foaf:name>
+                <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLLibCode">0000</dcterms:identifier>
+              </foaf:Agent>
+            </dcndl:holdingAgent>
+            <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032423650"/>
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/032423650"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">032423650</dcterms:identifier>
+            <dcndl:callNumber>Z3-96</dcndl:callNumber>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+          </dcndl:Item>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R100000136-I1520012313358042112#item">
+            <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520012313358042112"/>
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/032423650"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">032423650</dcterms:identifier>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Article" rdfs:label="記事・論文"/>
+          </dcndl:Item>
+        </rdf:RDF>
+      </recordData>
+      <recordPosition>3</recordPosition>
+    </record>
+  </records>
+</searchRetrieveResponse>

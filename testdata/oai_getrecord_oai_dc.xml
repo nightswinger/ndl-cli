@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-10-21T18:06:16Z</responseDate>
+  <request verb="GetRecord" identifier="oai:ndlsearch.ndl.go.jp:R000000014-I000005card5000005" metadataPrefix="oai_dc">https://ndlsearch.ndl.go.jp/api/oaipmh</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:ndlsearch.ndl.go.jp:R000000014-I000005card5000005</identifier>
+        <datestamp>2023-12-16T10:40:41Z</datestamp>
+        <setSpec>aozora</setSpec>
+        <setSpec>book</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>あいびき</dc:title>
+          <dc:creator>ツルゲーネフ イワン 著者</dc:creator>
+          <dc:description>日本文学全集1　坪内逍遥・二葉亭四迷集</dc:description>
+          <dc:description>集英社</dc:description>
+          <dc:description>1969（昭和44）年12月25日</dc:description>
+          <dc:description>新字新仮名</dc:description>
+          <dc:publisher>集英社</dc:publisher>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

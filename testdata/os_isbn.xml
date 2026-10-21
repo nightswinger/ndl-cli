@@ -1,0 +1,62 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784101010014 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101010014&amp;cnt=2</link>
+    <description>Search results for isbn=9784101010014 cnt=2</description>
+    <language>ja</language>
+    <openSearch:totalResults>4</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>2</openSearch:itemsPerPage>
+    <item>
+      <title>吾輩は猫である</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434858805906</link>
+      <description><![CDATA[<p>新潮社,2003,9784101010014<p><ul><li>タイトル：吾輩は猫である</li><li>タイトル（読み）：ワガハイ ワ ネコ デ アル</li><li>責任表示：夏目漱石著</li><li>NDC(9)：913.6</li></ul>]]></description>
+      <author>夏目, 漱石,夏目漱石著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434858805906</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>吾輩は猫である</dc:title>
+      <dcndl:titleTranscription>ワガハイ ワ ネコ デ アル</dcndl:titleTranscription>
+      <dc:creator>夏目, 漱石</dc:creator>
+      <dcndl:creatorTranscription>ナツメ, ソウセキ</dcndl:creatorTranscription>
+      <dcndl:edition>改版</dcndl:edition>
+      <dc:publisher>新潮社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784101010014</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784101010014</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA6465493X</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">913.6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">913.6</dc:subject>
+      <dc:description>91刷改版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434858805906"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>吾輩は猫である</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434895968687</link>
+      <description><![CDATA[<p>新潮社,1980,4101010013<p><ul><li>タイトル：吾輩は猫である</li><li>タイトル（読み）：ワガハイ ワ ネコ デ アル</li><li>責任表示：夏目漱石著</li></ul>]]></description>
+      <author>夏目, 漱石,夏目漱石著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434895968687</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>吾輩は猫である</dc:title>
+      <dcndl:titleTranscription>ワガハイ ワ ネコ デ アル</dcndl:titleTranscription>
+      <dc:creator>夏目, 漱石</dc:creator>
+      <dcndl:creatorTranscription>ナツメ, ソウセキ</dcndl:creatorTranscription>
+      <dcndl:edition>改版</dcndl:edition>
+      <dc:publisher>新潮社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1980</dc:date>
+      <dcterms:issued>1980.5</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4101010013</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA66045590</dc:identifier>
+      <dc:description>昭和55年5月37刷改版. 記述は平成11年5月84刷による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434895968687"/>
+      <dc:description> 1980</dc:description>
+    </item>
+  </channel>
+</rss>

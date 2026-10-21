@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-10-21T18:06:21Z</responseDate>
+  <request verb="ListIdentifiers" resumptionToken="bogus">https://ndlsearch.ndl.go.jp/api/oaipmh</request>
+  <error code="badResumptionToken"/>
+</OAI-PMH>

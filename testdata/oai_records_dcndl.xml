@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-10-21T18:04:20Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="dcndl" from="2026-01-01" set="aozora">https://ndlsearch.ndl.go.jp/api/oaipmh</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:ndlsearch.ndl.go.jp:R000000014-I000005card5000005</identifier>
+        <datestamp>2026-01-12T16:30:00Z</datestamp>
+        <setSpec>aozora</setSpec>
+        <setSpec>book</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card5000005">
+            <dcterms:description>type : book</dcterms:description>
+            <dcndl:bibRecordCategory>R000000014</dcndl:bibRecordCategory>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card5000005#material"/>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card5000005#material">
+            <dcterms:title>あいびき</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>あいびき</rdf:value>
+                <dcndl:transcription>あいびき</dcndl:transcription>
+              </rdf:Description>
+            </dc:title>
+            <dcterms:creator>
+              <foaf:Agent>
+                <foaf:name>ツルゲーネフ イワン</foaf:name>
+                <dcndl:transcription>ツルゲーネフ イワン</dcndl:transcription>
+              </foaf:Agent>
+            </dcterms:creator>
+            <dc:creator>ツルゲーネフ イワン 著者</dc:creator>
+            <dcterms:contributor>j.utiyama</dcterms:contributor>
+            <dcterms:contributor>八巻美恵</dcterms:contributor>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>集英社</foaf:name>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcndl:digitizedPublisher>青空文庫</dcndl:digitizedPublisher>
+            <dcterms:date>1969（昭和44）年12月25日</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">1969-12-25</dcterms:issued>
+            <dcndl:dateDigitized rdf:datatype="http://purl.org/dc/terms/W3CDTF">1998-07-28</dcndl:dateDigitized>
+            <dcterms:description>新字新仮名</dcterms:description>
+            <dcterms:description>資料形態 : テキストデータ</dcterms:description>
+            <dcterms:description>日本文学全集1　坪内逍遥・二葉亭四迷集</dcterms:description>
+            <dcterms:description>集英社</dcterms:description>
+            <dcterms:description>1969（昭和44）年12月25日</dcterms:description>
+            <dcterms:subject rdf:resource="http://id.ndl.go.jp/class/ndc9/983"/>
+            <dcterms:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">jpn</dcterms:language>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Book" rdfs:label="図書"/>
+            <dcterms:accessRights>インターネット公開</dcterms:accessRights>
+            <dcterms:rights>著作権保護期間満了</dcterms:rights>
+            <dcterms:rights>PDM</dcterms:rights>
+            <dcterms:audience>一般</dcterms:audience>
+            <rdfs:seeAlso rdf:resource="https://www.aozora.gr.jp/cards/000005/card5.html"/>
+          </dcndl:BibResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card5000005#material">
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card5000005#item"/>
+          </dcndl:BibResource>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card5000005#item">
+            <rdfs:seeAlso rdf:resource="https://www.aozora.gr.jp/cards/000005/card5.html"/>
+            <dcterms:description>資料形態 : テキストデータ</dcterms:description>
+          </dcndl:Item>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:ndlsearch.ndl.go.jp:R000000014-I000005card53194000005</identifier>
+        <datestamp>2026-01-12T16:30:00Z</datestamp>
+        <setSpec>aozora</setSpec>
+        <setSpec>book</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card53194000005">
+            <dcterms:description>type : book</dcterms:description>
+            <dcndl:bibRecordCategory>R000000014</dcndl:bibRecordCategory>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card53194000005#material"/>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card53194000005#material">
+            <dcterms:title>はつ恋</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>はつ恋</rdf:value>
+                <dcndl:transcription>はつこい</dcndl:transcription>
+              </rdf:Description>
+            </dc:title>
+            <dcndl:seriesTitle>
+              <rdf:Description>
+                <rdf:value>新潮文庫</rdf:value>
+              </rdf:Description>
+            </dcndl:seriesTitle>
+            <dcterms:creator>
+              <foaf:Agent>
+                <foaf:name>ツルゲーネフ イワン</foaf:name>
+                <dcndl:transcription>ツルゲーネフ イワン</dcndl:transcription>
+              </foaf:Agent>
+            </dcterms:creator>
+            <dc:creator>ツルゲーネフ イワン 著者</dc:creator>
+            <dcterms:contributor>松永佳代</dcterms:contributor>
+            <dcterms:contributor>阿部哲也</dcterms:contributor>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>新潮社</foaf:name>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcndl:digitizedPublisher>青空文庫</dcndl:digitizedPublisher>
+            <dcterms:date>1952（昭和27）年12月25日、1987（昭和62）年 1月30日73刷改版</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">1952-12-25</dcterms:issued>
+            <dcndl:dateDigitized rdf:datatype="http://purl.org/dc/terms/W3CDTF">2011-11-05</dcndl:dateDigitized>
+            <dcterms:description>新字新仮名</dcterms:description>
+            <dcterms:description>資料形態 : テキストデータ</dcterms:description>
+            <dcterms:description>はつ恋</dcterms:description>
+            <dcterms:description>新潮文庫、新潮社</dcterms:description>
+            <dcterms:description>1952（昭和27）年12月25日、1987（昭和62）年 1月30日73刷改版</dcterms:description>
+            <dcterms:description>1997（平成9）年5月25日92刷</dcterms:description>
+            <dcterms:description>1995（平成7）年6月5日90刷</dcterms:description>
+            <dcterms:subject rdf:resource="http://id.ndl.go.jp/class/ndc9/983"/>
+            <dcterms:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">jpn</dcterms:language>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Book" rdfs:label="図書"/>
+            <dcterms:accessRights>インターネット公開</dcterms:accessRights>
+            <dcterms:rights>著作権保護期間満了</dcterms:rights>
+            <dcterms:rights>PDM</dcterms:rights>
+            <dcterms:audience>一般</dcterms:audience>
+            <rdfs:seeAlso rdf:resource="https://www.aozora.gr.jp/cards/000005/card53194.html"/>
+          </dcndl:BibResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card53194000005#material">
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card53194000005#item"/>
+          </dcndl:BibResource>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card53194000005#item">
+            <rdfs:seeAlso rdf:resource="https://www.aozora.gr.jp/cards/000005/card53194.html"/>
+            <dcterms:description>資料形態 : テキストデータ</dcterms:description>
+          </dcndl:Item>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:ndlsearch.ndl.go.jp:R000000014-I000005card55215000005</identifier>
+        <datestamp>2026-01-12T16:30:00Z</datestamp>
+        <setSpec>aozora</setSpec>
+        <setSpec>book</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card55215000005">
+            <dcterms:description>type : book</dcterms:description>
+            <dcndl:bibRecordCategory>R000000014</dcndl:bibRecordCategory>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card55215000005#material"/>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card55215000005#material">
+            <dcterms:title>露西亜の言葉</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>露西亜の言葉</rdf:value>
+                <dcndl:transcription>ろしあのことば</dcndl:transcription>
+              </rdf:Description>
+            </dc:title>
+            <dcndl:seriesTitle>
+              <rdf:Description>
+                <rdf:value>岩波文庫</rdf:value>
+              </rdf:Description>
+            </dcndl:seriesTitle>
+            <dcterms:creator>
+              <foaf:Agent>
+                <foaf:name>ツルゲーネフ イワン</foaf:name>
+                <dcndl:transcription>ツルゲーネフ イワン</dcndl:transcription>
+              </foaf:Agent>
+            </dcterms:creator>
+            <dc:creator>ツルゲーネフ イワン 著者</dc:creator>
+            <dcterms:contributor>川山隆</dcterms:contributor>
+            <dcterms:contributor>岡村和彦</dcterms:contributor>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>岩波書店</foaf:name>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcndl:digitizedPublisher>青空文庫</dcndl:digitizedPublisher>
+            <dcterms:date>1962（昭和37）年12月16日</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">1962-12-16</dcterms:issued>
+            <dcndl:dateDigitized rdf:datatype="http://purl.org/dc/terms/W3CDTF">2013-02-12</dcndl:dateDigitized>
+            <dcterms:description>旧字旧仮名</dcterms:description>
+            <dcterms:description>資料形態 : テキストデータ</dcterms:description>
+            <dcterms:description>上田敏全訳詩集</dcterms:description>
+            <dcterms:description>岩波文庫、岩波書店</dcterms:description>
+            <dcterms:description>1962（昭和37）年12月16日</dcterms:description>
+            <dcterms:description>2010（平成22）年4月21日第38刷改版</dcterms:description>
+            <dcterms:description>2010（平成22）年4月21日第38刷改版</dcterms:description>
+            <dcterms:description>「明星　三ノ二」1902（明治35）年8月</dcterms:description>
+            <dcterms:subject rdf:resource="http://id.ndl.go.jp/class/ndc9/981"/>
+            <dcterms:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">jpn</dcterms:language>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Book" rdfs:label="図書"/>
+            <dcterms:accessRights>インターネット公開</dcterms:accessRights>
+            <dcterms:rights>著作権保護期間満了</dcterms:rights>
+            <dcterms:rights>PDM</dcterms:rights>
+            <dcterms:audience>一般</dcterms:audience>
+            <rdfs:seeAlso rdf:resource="https://www.aozora.gr.jp/cards/000005/card55215.html"/>
+          </dcndl:BibResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card55215000005#material">
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card55215000005#item"/>
+          </dcndl:BibResource>
+          <dcndl:Item rdf:about="https://ndlsearch.ndl.go.jp/books/R000000014-I000005card55215000005#item">
+            <rdfs:seeAlso rdf:resource="https://www.aozora.gr.jp/cards/000005/card55215.html"/>
+            <dcterms:description>資料形態 : テキストデータ</dcterms:description>
+          </dcndl:Item>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="17840" cursor="0">dcndl/2026-01-01T00:00:00Z/2027-01-01T00:00:00Z/aozora/200/1768203000000_R000000014-I000005card5000005,1768203000000_R000000014-I000023card4762000023</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

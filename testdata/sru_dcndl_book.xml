@@ -1,0 +1,279 @@
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>4881</numberOfRecords>
+  <nextRecordPosition>3</nextRecordPosition>
+  <extraResponseData>
+    <facets>
+      <lst name="REPOSITORY_NO">
+        <int name="R100000002">4881</int>
+      </lst>
+      <lst name="NDC">
+        <int name="0">17</int>
+        <int name="1">40</int>
+        <int name="2">299</int>
+        <int name="3">151</int>
+        <int name="4">29</int>
+        <int name="5">23</int>
+        <int name="6">37</int>
+        <int name="7">535</int>
+        <int name="8">9</int>
+        <int name="9">950</int>
+      </lst>
+      <lst name="ISSUED_DATE">
+        <int name="1900">7</int>
+        <int name="1903">1</int>
+        <int name="1951">1</int>
+        <int name="1952">1</int>
+        <int name="1959">2</int>
+        <int name="1960">1</int>
+        <int name="1961">1</int>
+        <int name="1962">1</int>
+        <int name="1963">1</int>
+        <int name="1964">1</int>
+        <int name="1965">2</int>
+        <int name="1966">2</int>
+        <int name="1967">2</int>
+        <int name="1968">2</int>
+        <int name="1969">1</int>
+        <int name="1970">3</int>
+        <int name="1971">3</int>
+        <int name="1972">1</int>
+        <int name="1973">4</int>
+        <int name="1974">4</int>
+        <int name="1975">3</int>
+        <int name="1976">2</int>
+        <int name="1977">3</int>
+        <int name="1978">4</int>
+        <int name="1979">4</int>
+        <int name="1980">6</int>
+        <int name="1981">5</int>
+        <int name="1982">6</int>
+        <int name="1983">7</int>
+        <int name="1984">6</int>
+        <int name="1985">8</int>
+        <int name="1986">8</int>
+        <int name="1987">8</int>
+        <int name="1988">8</int>
+        <int name="1989">8</int>
+        <int name="1990">10</int>
+        <int name="1991">11</int>
+        <int name="1992">10</int>
+        <int name="1993">9</int>
+        <int name="1994">11</int>
+        <int name="1995">11</int>
+        <int name="1996">12</int>
+        <int name="1997">12</int>
+        <int name="1998">16</int>
+        <int name="1999">13</int>
+        <int name="2000">17</int>
+        <int name="2001">12</int>
+        <int name="2002">15</int>
+        <int name="2003">17</int>
+        <int name="2004">14</int>
+      </lst>
+      <lst name="LIBRARY">
+        <int name="国立国会図書館">4874</int>
+        <int name="大阪市立図書館">592</int>
+        <int name="さいたま市立中央図書館">557</int>
+        <int name="堺市立中央図書館">530</int>
+        <int name="横浜市立図書館">525</int>
+        <int name="長崎県立長崎図書館">507</int>
+        <int name="静岡市立中央図書館">476</int>
+        <int name="広島市立中央図書館">450</int>
+        <int name="サピエ図書館">436</int>
+        <int name="岡山県立図書館">422</int>
+        <int name="東京都立中央図書館">401</int>
+        <int name="札幌市中央図書館">384</int>
+        <int name="大阪府立中央図書館">374</int>
+        <int name="石川県立図書館">370</int>
+        <int name="滋賀県立図書館">361</int>
+        <int name="川崎市立図書館">341</int>
+        <int name="千葉市中央図書館">313</int>
+        <int name="鳥取県立図書館">297</int>
+        <int name="名古屋市図書館">266</int>
+        <int name="相模原市立図書館">265</int>
+        <int name="茨城県立図書館">247</int>
+        <int name="秋田県立図書館">232</int>
+        <int name="福岡県立図書館">230</int>
+        <int name="和歌山県立図書館">225</int>
+        <int name="大分県立図書館">214</int>
+        <int name="福井県立図書館">204</int>
+        <int name="徳島県立図書館">203</int>
+        <int name="静岡県立中央図書館">203</int>
+        <int name="高知県立図書館">201</int>
+        <int name="香川県立図書館">193</int>
+        <int name="佐賀県立図書館">186</int>
+        <int name="山梨県立図書館">185</int>
+        <int name="山口県立山口図書館">168</int>
+        <int name="富山県立図書館">167</int>
+        <int name="大阪府立中央図書館国際児童文学館">161</int>
+        <int name="鹿児島県立図書館">161</int>
+        <int name="新潟県立図書館">160</int>
+        <int name="京都府立図書館">159</int>
+        <int name="青森県立図書館">155</int>
+        <int name="島根県立図書館">144</int>
+        <int name="広島県立図書館">142</int>
+        <int name="宮城県図書館">140</int>
+        <int name="群馬県立図書館">140</int>
+        <int name="北海道立図書館">131</int>
+        <int name="岐阜県図書館">125</int>
+        <int name="愛知県図書館">111</int>
+        <int name="神奈川県立図書館">111</int>
+        <int name="奈良県立図書情報館">108</int>
+        <int name="山形県立図書館">108</int>
+        <int name="福島県立図書館">107</int>
+      </lst>
+    </facets>
+  </extraResponseData>
+  <records>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000002-I031267586">
+            <dcndl:catalogingStatus>C7</dcndl:catalogingStatus>
+            <dcndl:catalogingRule>ncr/2018</dcndl:catalogingRule>
+            <dcterms:description>type : book</dcterms:description>
+            <dcndl:bibRecordCategory>R100000002</dcndl:bibRecordCategory>
+            <dcndl:bibRecordSubCategory>161</dcndl:bibRecordSubCategory>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031267586#material"/>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000002-I031267586#material">
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/jpno/23514280"/>
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/031267586"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/JPNO">23514280</dcterms:identifier>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">031267586</dcterms:identifier>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/RIS502">PCBC-52751</dcterms:identifier>
+            <dcterms:title>アーモンドアイ = Almond Eye : 9冠女王、最強の耀き</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>アーモンドアイ : 9冠女王、最強の耀き</rdf:value>
+                <dcndl:transcription>アーモンド アイ</dcndl:transcription>
+              </rdf:Description>
+            </dc:title>
+            <dcndl:alternative>
+              <rdf:Description>
+                <rdf:value>Almond Eye</rdf:value>
+              </rdf:Description>
+            </dcndl:alternative>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>フジテレビジョン</foaf:name>
+                <dcndl:transcription>フジ テレビジョン</dcndl:transcription>
+                <dcndl:location>[東京]</dcndl:location>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>ポニーキャニオン</foaf:name>
+                <dcndl:transcription>ポニー キャニオン</dcndl:transcription>
+                <dcterms:description>頒布</dcterms:description>
+                <dcndl:location>[東京]</dcndl:location>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcndl:publicationPlace rdf:datatype="http://purl.org/dc/terms/ISO3166">JP</dcndl:publicationPlace>
+            <dcterms:date>[2021.4]</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">2021</dcterms:issued>
+            <dcndl:partInformation>
+              <rdf:Description>
+                <dcterms:title>〈2017年〉8月6日2歳新馬(2着)/10月8日2歳未勝利(1着)〈2018年〉1月8日シンザン記念(GⅢ)(1着)/4月8日桜花賞(GⅠ)(1着)/5月20日オークス(GⅠ)(1着)/10月14日秋華賞(GⅠ)(1着)/11月25日ジャパンカップ(GⅠ)(1着)〈2019年〉3月30日ドバイターフ(GⅠ)(1着)/6月2日安田記念(GⅠ)(3着)/10月27日天皇賞(秋)(GⅠ)(1着)/12月22日有馬記念(GⅠ)(9着)〈2020年〉5月17日ヴィクトリアマイル(GⅠ)(1着)/6月7日安田記念(GⅠ)(2着)/11月1日天皇賞(秋)(GⅠ)(1着)/11月29日ジャパンカップ(GⅠ)(1着)</dcterms:title>
+              </rdf:Description>
+            </dcndl:partInformation>
+            <dcterms:description>ナレーション:窪田等</dcterms:description>
+            <dcterms:description>表現種別 : 二次元動画</dcterms:description>
+            <dcterms:description>機器種別 : ビデオ</dcterms:description>
+            <dcterms:description>キャリア種別 : ビデオディスク</dcterms:description>
+            <dcterms:description>録音の方式 : デジタル</dcterms:description>
+            <dcterms:description>録音の手段 : 光学</dcterms:description>
+            <dcterms:description>再生チャンネル : ステレオ</dcterms:description>
+            <dcterms:description>ファイル種別 : ビデオ・ファイル</dcterms:description>
+            <dcterms:description>デジタル・コンテンツ・フォーマット : DVD video</dcterms:description>
+            <dcterms:description>システム要件 : カラー, ワイド</dcterms:description>
+            <dcterms:description>収録: 2017年8月, 10月, 2018年1月, 4-5月, 10-11月 ほか</dcterms:description>
+            <dcterms:description>所要時間: 116分</dcterms:description>
+            <dcterms:subject rdf:resource="http://id.ndl.go.jp/class/ndlc/YL321"/>
+            <dcndl:price>3800円</dcndl:price>
+            <dcterms:extent>DVD 1枚 ; 12 cm</dcterms:extent>
+            <dcndl:materialType rdf:resource="http://purl.org/dc/dcmitype/MovingImage" rdfs:label="映像資料"/>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/DVD" rdfs:label="DVD"/>
+            <dcterms:audience>一般</dcterms:audience>
+            <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031267586"/>
+          </dcndl:BibResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000002-I031267586#material">
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031267586#item"/>
+          </dcndl:BibResource>
+        </rdf:RDF>
+      </recordData>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>info:srw/schema/1/dc-v1.1</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#">
+          <dcndl:BibAdminResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000002-I030373232">
+            <dcndl:catalogingStatus>C7</dcndl:catalogingStatus>
+            <dcndl:catalogingRule>ncr/1987</dcndl:catalogingRule>
+            <dcterms:description>type : book</dcterms:description>
+            <dcndl:bibRecordCategory>R100000002</dcndl:bibRecordCategory>
+            <dcndl:bibRecordSubCategory>161</dcndl:bibRecordSubCategory>
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030373232#material"/>
+          </dcndl:BibAdminResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000002-I030373232#material">
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/jpno/23460471"/>
+            <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/030373232"/>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/JPNO">23460471</dcterms:identifier>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/NDLBibID">030373232</dcterms:identifier>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/RIS502">TECI-1701</dcterms:identifier>
+            <dcterms:identifier rdf:datatype="http://ndl.go.jp/dcndl/terms/RIS502">TEBI-55619</dcterms:identifier>
+            <dcterms:title>愛☆溢れて!full of lovable people 40th anniversary best album + live + DVD</dcterms:title>
+            <dc:title>
+              <rdf:Description>
+                <rdf:value>愛☆溢れて!full of lovable people 40th anniversary best album + live + DVD</rdf:value>
+                <dcndl:transcription>アイ アフレテ full of lovable people</dcndl:transcription>
+              </rdf:Description>
+            </dc:title>
+            <dc:creator>山下久美子</dc:creator>
+            <dcterms:publisher>
+              <foaf:Agent>
+                <foaf:name>テイチクエンタテインメント</foaf:name>
+                <dcndl:transcription>テイチク エンタテインメント</dcndl:transcription>
+                <dcndl:location>[東京]</dcndl:location>
+              </foaf:Agent>
+            </dcterms:publisher>
+            <dcndl:publicationPlace rdf:datatype="http://purl.org/dc/terms/ISO3166">JP</dcndl:publicationPlace>
+            <dcterms:date>2020.10</dcterms:date>
+            <dcterms:issued rdf:datatype="http://purl.org/dc/terms/W3CDTF">2020</dcterms:issued>
+            <dcndl:partInformation>
+              <rdf:Description>
+                <dcterms:title>DISC1〈40th Anniversary Best愛☆溢れて!〉(1)スウィート・ガールズ・パレード(2)情熱(3)鼓動-HEART BEAT(re-mix)(4)あなたが、いた夏(5)愛すればこそ(6)ベジタリアン(7)愛してたなんていまさら(new re-mix)(8)ごめんね太陽(9)リアルな夢?(10)最後の初恋(11)秘密(12)あの桜の木の下で永遠に(13)FOUR SEASONS(U.K.orchestration)(14)SING A SONG(15)Morning Star(新曲)</dcterms:title>
+              </rdf:Description>
+            </dcndl:partInformation>
+            <dcndl:partInformation>
+              <rdf:Description>
+                <dcterms:title>DISC2〈Love You Live☆Sweet Rockin' Best of Live 2018〉(1)バスルームから愛をこめて(2)LOVERステッカー(3)スープ(4)ベジタリアン(5)宝石(6)いっぱいキスしよう(7)シャンプー(8)LOVER MAN(9)時代遅れの恋心(10)こっちをお向きよソフィア(11)ちょいまちBabyなごりのキスが(12)Stop Stop Rock'n' Roll(13)赤道小町ドキッ(14)Din-Don-Danホラ胸が鳴る(15)LOVIN' YOU(16)秋ラメきれないNight Movie</dcterms:title>
+              </rdf:Description>
+            </dcndl:partInformation>
+            <dcterms:description>レーベル名 : コンチネンタル・スター</dcterms:description>
+            <dcterms:description>資料種別 : [録音資料]</dcterms:description>
+            <dcterms:description>システム要件 : 一部ライブ収録</dcterms:description>
+            <dcterms:description>収録: 2018年</dcterms:description>
+            <dcterms:subject rdf:resource="http://id.ndl.go.jp/class/ndlc/YMC11"/>
+            <dcndl:price>5000円</dcndl:price>
+            <dcterms:extent>録音ディスク 2枚 (151分) : CD + DVD 1枚</dcterms:extent>
+            <dcndl:materialType rdf:resource="http://purl.org/dc/dcmitype/Sound" rdfs:label="録音資料"/>
+            <dcndl:materialType rdf:resource="http://ndl.go.jp/ndltype/Music" rdfs:label="音楽"/>
+            <dcndl:materialType rdf:resource="http://purl.org/dc/dcmitype/SoundDisc" rdfs:label="DVD・CD"/>
+            <dcterms:audience>一般</dcterms:audience>
+            <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030373232"/>
+          </dcndl:BibResource>
+          <dcndl:BibResource rdf:about="https://ndlsearch.ndl.go.jp/books/R100000002-I030373232#material">
+            <dcndl:record rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030373232#item"/>
+          </dcndl:BibResource>
+        </rdf:RDF>
+      </recordData>
+      <recordPosition>2</recordPosition>
+    </record>
+  </records>
+</searchRetrieveResponse>
