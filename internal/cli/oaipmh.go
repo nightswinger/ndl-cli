@@ -11,9 +11,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/nightswinger/ndl/internal/dcndl"
-	"github.com/nightswinger/ndl/internal/oaipmh"
-	"github.com/nightswinger/ndl/internal/output"
+	"github.com/nightswinger/ndl-cli/internal/dcndl"
+	"github.com/nightswinger/ndl-cli/internal/oaipmh"
+	"github.com/nightswinger/ndl-cli/internal/output"
 )
 
 // oaiIDPrefix is prepended to bare item tokens given to "get".

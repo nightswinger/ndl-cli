@@ -14,8 +14,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/nightswinger/ndl/internal/client"
-	"github.com/nightswinger/ndl/internal/dcndl"
+	"github.com/nightswinger/ndl-cli/internal/client"
+	"github.com/nightswinger/ndl-cli/internal/dcndl"
 )
 
 // Path is the OAI-PMH endpoint relative to the API base URL.

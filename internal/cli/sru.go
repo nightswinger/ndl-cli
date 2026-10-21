@@ -6,9 +6,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/nightswinger/ndl/internal/dcndl"
-	"github.com/nightswinger/ndl/internal/output"
-	"github.com/nightswinger/ndl/internal/sru"
+	"github.com/nightswinger/ndl-cli/internal/dcndl"
+	"github.com/nightswinger/ndl-cli/internal/output"
+	"github.com/nightswinger/ndl-cli/internal/sru"
 )
 
 func (a *app) sruCmd() *cobra.Command {

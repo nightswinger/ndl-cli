@@ -1,4 +1,4 @@
-module github.com/nightswinger/ndl
+module github.com/nightswinger/ndl-cli
 
 go 1.22
 

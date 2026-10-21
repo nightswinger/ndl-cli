@@ -3,7 +3,7 @@ package sru
 import (
 	"context"
 
-	"github.com/nightswinger/ndl/internal/client"
+	"github.com/nightswinger/ndl-cli/internal/client"
 )
 
 // PageFunc receives each fetched page. Returning an error stops paging.

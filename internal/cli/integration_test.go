@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nightswinger/ndl/internal/client"
+	"github.com/nightswinger/ndl-cli/internal/client"
 )
 
 func live(t *testing.T, args ...string) (int, string, string) {

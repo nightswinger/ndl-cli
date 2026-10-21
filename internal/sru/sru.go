@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/nightswinger/ndl/internal/client"
-	"github.com/nightswinger/ndl/internal/dcndl"
+	"github.com/nightswinger/ndl-cli/internal/client"
+	"github.com/nightswinger/ndl-cli/internal/dcndl"
 )
 
 const (

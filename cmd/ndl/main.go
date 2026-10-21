@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/nightswinger/ndl/internal/cli"
+	"github.com/nightswinger/ndl-cli/internal/cli"
 )
 
 func main() {

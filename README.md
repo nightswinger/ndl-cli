@@ -13,7 +13,7 @@
 Go 1.22 以降が必要です。
 
 ```sh
-go install github.com/nightswinger/ndl/cmd/ndl@latest
+go install github.com/nightswinger/ndl-cli/cmd/ndl@latest
 # またはリポジトリを clone して
 go build ./cmd/ndl
 ```
@@ -21,7 +21,7 @@ go build ./cmd/ndl
 バージョン文字列（User-Agent に入る）を埋め込む場合:
 
 ```sh
-go build -ldflags "-X github.com/nightswinger/ndl/internal/cli.Version=0.1.0" ./cmd/ndl
+go build -ldflags "-X github.com/nightswinger/ndl-cli/internal/cli.Version=0.1.0" ./cmd/ndl
 ```
 
 ## 使い方

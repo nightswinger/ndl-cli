@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nightswinger/ndl/internal/client"
+	"github.com/nightswinger/ndl-cli/internal/client"
 )
 
 func fixture(t *testing.T, name string) []byte {

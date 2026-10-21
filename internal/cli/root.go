@@ -14,11 +14,11 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 
-	"github.com/nightswinger/ndl/internal/client"
-	"github.com/nightswinger/ndl/internal/oaipmh"
-	"github.com/nightswinger/ndl/internal/opensearch"
-	"github.com/nightswinger/ndl/internal/output"
-	"github.com/nightswinger/ndl/internal/sru"
+	"github.com/nightswinger/ndl-cli/internal/client"
+	"github.com/nightswinger/ndl-cli/internal/oaipmh"
+	"github.com/nightswinger/ndl-cli/internal/opensearch"
+	"github.com/nightswinger/ndl-cli/internal/output"
+	"github.com/nightswinger/ndl-cli/internal/sru"
 )
 
 // Version is overridden at build time with -ldflags "-X .../cli.Version=...".

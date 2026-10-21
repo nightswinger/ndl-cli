@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/nightswinger/ndl/internal/dcndl"
+	"github.com/nightswinger/ndl-cli/internal/dcndl"
 	"golang.org/x/term"
 )
 

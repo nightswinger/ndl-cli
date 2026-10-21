@@ -5,8 +5,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/nightswinger/ndl/internal/opensearch"
-	"github.com/nightswinger/ndl/internal/output"
+	"github.com/nightswinger/ndl-cli/internal/opensearch"
+	"github.com/nightswinger/ndl-cli/internal/output"
 )
 
 func (a *app) openSearchCmd() *cobra.Command {

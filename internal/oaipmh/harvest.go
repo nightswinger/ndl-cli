@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/nightswinger/ndl/internal/client"
+	"github.com/nightswinger/ndl-cli/internal/client"
 )
 
 // Page is one harvested response.

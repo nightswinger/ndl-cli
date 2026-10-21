@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nightswinger/ndl/internal/dcndl"
+	"github.com/nightswinger/ndl-cli/internal/dcndl"
 )
 
 var recs = []dcndl.Record{
